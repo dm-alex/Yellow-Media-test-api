@@ -5,7 +5,7 @@
 
 ```bash
 composer install
-copy .env.example to .env
+cp .env.example .env
 ```
 Setup APP_KEY, configure DB, MAIL driver
 
