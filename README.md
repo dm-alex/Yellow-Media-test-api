@@ -11,5 +11,5 @@ Setup APP_KEY, configure DB, MAIL driver
 
 ```bash
 php artisan jwt:secret
-php artisan migration:run
+php artisan migrate
 ```
